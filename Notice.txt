@@ -1,0 +1,13 @@
+This SDK contains some software subject to open source licenses. In this document, we will introduce you to the terms that
+apply to these open source software components and indicate where you can find these license.
+
+1. \Libraries\G32M3101_DAL_Driver\
+G32M310x_DAL_Driver is freely available under a BSD-3 license. You can find the license at this directory path.
+
+2. \Libraries\Device\Geehy\G32M3101\
+G32M310x is freely available under a Apache-2.0 license. You can find the license at this directory path.
+
+You can also access the applicable open source software terms and related statements at the following URL.
+Apache License : https://opensource.org/license/apache-2-0/
+MIT License : https://opensource.org/license/mit/
+BSD License : https://opensource.org/license/bsd-3-clause/
